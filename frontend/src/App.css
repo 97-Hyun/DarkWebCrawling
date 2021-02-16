@@ -5,6 +5,10 @@
   --gray: #8C8C8C;
 }
 
+html {
+  min-width: 700px;
+}
+
 body {
   margin : 0;
 }
@@ -94,6 +98,7 @@ nav {
 
 .content-area__implement {
   height: 80%;
+  padding: 5vh 10vh;
 }
 
 
